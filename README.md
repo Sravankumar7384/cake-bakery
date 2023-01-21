@@ -20,7 +20,7 @@ Project Description           :  tasty food give the positive feeling.
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot,
 .................................................................................................................................................................
 
-1.Static Web App URL : 
+1.Static Web App URL : https://proud-forest-0aa5bbd10.2.azurestaticapps.net
 
 2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : 
 
@@ -31,4 +31,4 @@ Project demo video URL:
 
 
 
-## MY WEBSITE LINK IS : 
+## MY WEBSITE LINK IS : https://proud-forest-0aa5bbd10.2.azurestaticapps.net
