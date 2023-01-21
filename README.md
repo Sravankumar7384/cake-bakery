@@ -17,7 +17,8 @@ Problem Statement/Opportunity : Good food gives the good health result .
 
 Project Description           :  tasty food give the positive feeling.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot,
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
+
 .................................................................................................................................................................
 
 1.Static Web App URL : https://proud-forest-0aa5bbd10.2.azurestaticapps.net
